@@ -1,0 +1,8 @@
+name: mtcars_plot
+account: alliander
+server: shinyapps.io
+bundleId: 273293
+url: https://alliander.shinyapps.io/mtcars_plot
+when: 1443129276.33145
+asMultiple: FALSE
+asStatic: FALSE
